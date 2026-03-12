@@ -71,7 +71,7 @@ src
 Clone the repository
 
 ```
-git clone https://github.com/kadirkar22/rick-and-morty-nextjs-case.git
+git clone https://github.com/kadirkara22/vanora-case.git
 ```
 
 Install dependencies
