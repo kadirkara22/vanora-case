@@ -114,11 +114,13 @@ https://rickandmortyapi.com/api/character
 
 ![Character List](./screens/desktopList.png)
 
+![Character Detail](./screens/desktopListFooter.png)
+
 ### Character Detail (Desktop)
 
 ![Character Detail](./screens/desktopDetail.png)
 
-### Character List,Detail,Filter (Mobile)
+### Character List, Detail, Filter (Mobile)
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
   <img src="./screens/mobileFilter.png" alt="Filter" style="width:32%; height:auto;" />
