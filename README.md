@@ -114,7 +114,7 @@ https://rickandmortyapi.com/api/character
 
 ![Character List](./screens/desktopList.png)
 
-![Character Detail](./screens/desktopListLeadMore.png)
+![Character Detail](./screens/desktopListFooter.png)
 
 ### Character Detail (Desktop)
 
