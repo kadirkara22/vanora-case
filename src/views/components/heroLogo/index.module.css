@@ -1,0 +1,10 @@
+.hero {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.hero img {
+    max-width: 100%;
+    height: auto;
+    width: 600px;
+}
